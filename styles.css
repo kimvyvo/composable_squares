@@ -1,0 +1,20 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background: #b7deea;
+    color: #5c95a7;
+    display: flex;
+    align-items: center;
+}
+
+h2 {
+    height: 200px; 
+    width: 200px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
